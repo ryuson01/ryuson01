@@ -6,8 +6,11 @@ Looking to start my career as a data analyst where I can develop and make an imp
 Excited to grow my technical knowledge and capabilities in data analytics, machine learning, and cloud-computing technologies.
 <br>
 ### Connect with me:
-#Email:ryanyuson55@gmail.com
-#Linkedin: https://www.linkedin.com/in/ryan-yuson/
+## Email:
+ryanyuson55@gmail.com
+<br>
+## Linkedin: 
+https://www.linkedin.com/in/ryan-yuson/
 <!--
 **ryuson01/ryuson01** is a ✨ _special_ ✨ repository because its `README.md` (
 "this file) appears on your GitHub profile.

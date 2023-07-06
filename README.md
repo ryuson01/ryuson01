@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I am a recent graduate from the University of Iowa with a degree in BAIS, with a certificate in Leadership Studies and Azure Fundamentals (AZ-900).
 <br>
 Looking to start my career as a data analyst where I can develop and make an impact across diverse and collaborative environments.
@@ -6,10 +6,10 @@ Looking to start my career as a data analyst where I can develop and make an imp
 Excited to grow my technical knowledge and capabilities in data analytics, machine learning, and cloud-computing technologies.
 <br>
 ### Connect with me:
-## Email:
+#### Email:
 ryanyuson55@gmail.com
 <br>
-## Linkedin: 
+#### Linkedin: 
 https://www.linkedin.com/in/ryan-yuson/
 <!--
 **ryuson01/ryuson01** is a ✨ _special_ ✨ repository because its `README.md` (

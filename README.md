@@ -8,7 +8,7 @@ Experience with:
 - Database design, implementation, and management using SQL in Oracle Apex
 - Big data management, summarization, and analytics using HiveQL and SparkR in Databricks
 - Data visualization in Tableau
-- Microsoft Azure (AZ-900)
+- Microsoft Azure (AZ:900)
 ## Connect with me:
 Email:
 ryanyuson55@gmail.com

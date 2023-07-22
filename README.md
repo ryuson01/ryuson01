@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a recent graduate with a degree in BAIS, with a certificate in Leadership Studies from the University of Iowa.
+I am a recent graduate with a degree in BAIS and a certificate in Leadership Studies from the University of Iowa.
 Looking to start my career in data analytics where I can develop and make an impact across diverse and collaborative environments.
 <br>
 Experience with:
